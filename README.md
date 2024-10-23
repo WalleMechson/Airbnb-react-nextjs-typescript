@@ -134,47 +134,47 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome.PNG" alt="airbnbYourHome" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome2.PNG" alt="airbnbYourHome2" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile.PNG" alt="airbnbYourHomeMobile" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile.PNG" alt="airbnbYourHomeMobile" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome3.PNG" alt="airbnbYourHome3" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome4.PNG" alt="airbnbYourHome4" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile2.PNG" alt="airbnbYourHomeMobile2" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile2.PNG" alt="airbnbYourHomeMobile2" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome5.PNG" alt="airbnbYourHome5" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHome6.PNG" alt="airbnbYourHome6" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile3.PNG" alt="airbnbYourHomeMobile3" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile3.PNG" alt="airbnbYourHomeMobile3" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/favorites.PNG" alt="favorites" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/favoritesMobile.PNG" alt="favoritesMobile" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/homepage.PNG" alt="homepage" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/homepage.PNG" alt="favoritesMobile" width="300"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/favoritesMobile.PNG" alt="homepage" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/homepageMobile.PNG" alt="homepageMobile" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/house.PNG" alt="house" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/houseMobile.PNG" alt="houseMobile" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/houseMobile.PNG" alt="houseMobile" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/login.PNG" alt="login" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/loginMobile.PNG" alt="loginMobile" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/properties.PNG" alt="properties" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/properties.PNG" alt="properties" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/propertiesMobile.PNG" alt="propertiesMobile" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/reservations.PNG" alt="reservations" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/reservationsMobile.PNG" alt="reservationsMobile" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/reservationsMobile.PNG" alt="reservationsMobile" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/search.PNG" alt="search" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/searchMobile.PNG" alt="searchMobile" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/signup.PNG" alt="signup" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/signup.PNG" alt="signup" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/signupMobile.PNG" alt="signupMobile" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/trips.PNG" alt="trips" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/tripsMobile.PNG" alt="tripsMobile" width="100"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/tripsMobile.PNG" alt="tripsMobile" width="300"></td>
     </tr>
 </table>
 
