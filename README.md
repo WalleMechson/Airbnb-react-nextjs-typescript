@@ -10,8 +10,8 @@ A modern Airbnb clone built with Next.js, React, and Tailwind CSS, featuring Typ
 <table>
       <tr>
             <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/homepage.PNG" alt="10pic-light" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/Github/house.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/Github/airbnbYourHomeMobile2.PNG" alt="13mobile" width="100"></td>
+            <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/house.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/airbnbYourHomeMobile2.PNG" alt="13mobile" width="100"></td>
         </tr>
 </table>
   <p>
