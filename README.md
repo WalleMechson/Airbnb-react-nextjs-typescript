@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
 <div class="display: flex; align-items:center; justify-content:center;">
-              <img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/Airbnb-Logo.wine.png" style="height: 100px; width: 100px;" /> <h1 style="font-size: 70px;"> Full-Stack Responsive Airbnb clone </h1>
+              <img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/Airbnb-Logo.wine.png" style="height: 100px; width: 210px;" /> <h1 style="font-size: 70px;"> Full-Stack Responsive Airbnb clone </h1>
 </div>
   <br/>
   <p>
