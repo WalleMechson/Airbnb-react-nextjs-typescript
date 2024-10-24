@@ -158,8 +158,8 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/login.PNG" alt="login" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/loginMobile.PNG" alt="loginMobile" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/properties.PNG" alt="properties" width="300"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/loginMobile.PNG" alt="loginMobile" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/propertiesMobile.PNG" alt="propertiesMobile" width="300"></td>
@@ -168,8 +168,8 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/search.PNG" alt="search" width="300"></td>
-        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/searchMobile.PNG" alt="searchMobile" width="300"></td>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/signup.PNG" alt="signup" width="300"></td>
+        <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/searchMobile.PNG" alt="searchMobile" width="300"></td>
     </tr>
     <tr>
         <td><img src="https://github.com/WalleMechson/Airbnb-react-nextjs-typescript/blob/pending/public/Github/signupMobile.PNG" alt="signupMobile" width="300"></td>
